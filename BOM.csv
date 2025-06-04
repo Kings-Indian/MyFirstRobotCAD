@@ -1,7 +1,8 @@
-Item No.,Product Name,Amazon Link,Quantity,Notes
-1,"ESP-WROOM-32",,1,"Main microcontroller with WiFi + Bluetooth"
-2,"HiLetgo L298N Motor Driver Module","https://www.amazon.com/gp/product/B07BK1QL5T/",1,"Motor driver for controlling DC motors"
-3,"12V to 5V 3A 15W Step-Down Power Supply","https://www.amazon.com/gp/product/B01MS1Q2QG/",1,"Provides stable power conversion"
-4,"TT Motor Dual DC 3-6V","https://www.amazon.com/gp/product/B09N6NXP4H/",1,"Compact motor for drivetrain"
-5,"GEILIENERGY 7.2V 3000mAh NiMH Battery Pack","https://www.amazon.com/dp/B0C5WXWWH3/",1,"Main power source for motors"
-6,"Tamiya Connector Adapter Cable","https://www.amazon.com/dp/B07MSCD9KQ/",1,"Connects battery to motor driver"
+Item No.,Product Name,Amazon Link,Quantity,Cost (USD),Notes
+1,"ESP-WROOM-32",,1,"$XX.XX","Main microcontroller with WiFi + Bluetooth"
+2,"HiLetgo L298N Motor Driver Module","https://www.amazon.com/gp/product/B07BK1QL5T/",1,"$XX.XX","Motor driver for controlling DC motors"
+3,"12V to 5V 3A 15W Step-Down Power Supply","https://www.amazon.com/gp/product/B01MS1Q2QG/",1,"$XX.XX","Provides stable power conversion"
+4,"TT Motor Dual DC 3-6V","https://www.amazon.com/gp/product/B09N6NXP4H/",1,"$XX.XX","Compact motor for drivetrain"
+5,"GEILIENERGY 7.2V 3000mAh NiMH Battery Pack","https://www.amazon.com/dp/B0C5WXWWH3/",1,"$XX.XX","Main power source for motors"
+6,"Tamiya Connector Adapter Cable","https://www.amazon.com/dp/B07MSCD9KQ/",1,"$XX.XX","Connects battery to motor driver"
+7,"Overture Black PLA","https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PGY2JP1/",1,"$XX.XX","Filament for 3D Printer"

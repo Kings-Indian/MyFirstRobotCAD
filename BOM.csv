@@ -1,7 +1,7 @@
 Item No.,Product Name,Amazon Link,Quantity,Notes
-1,DEYUE 2WD Smart Robot Car Chassis Kit,https://www.amazon.com/gp/product/B08D5ZD528/,1,Includes motors, chassis, wheels, battery holder
-2,HiLetgo L298N Motor Driver Module,https://www.amazon.com/gp/product/B07BK1QL5T/,1,Motor driver for controlling DC motors
-3,HiLetgo ESP32 Development Board,https://www.amazon.com/gp/product/B01MS1Q2QG/,1,Main microcontroller with WiFi + Bluetooth
-4,DS18B20 Waterproof Temperature Sensor,https://www.amazon.com/gp/product/B09N6NXP4H/,1,Digital temperature sensor
-5,GEILIENERGY 7.2V 3000mAh NiMH Battery Pack,https://www.amazon.com/dp/B0C5WXWWH3/,1,Main power source for motors
-6,Tamiya Connector Adapter Cable,https://www.amazon.com/dp/B07MSCD9KQ/,1,Connects battery to motor driver
+1,"DEYUE 2WD Smart Robot Car Chassis Kit","https://www.amazon.com/gp/product/B08D5ZD528/",1,"Includes motors, chassis, wheels, battery holder"
+2,"HiLetgo L298N Motor Driver Module","https://www.amazon.com/gp/product/B07BK1QL5T/",1,"Motor driver for controlling DC motors"
+3,"HiLetgo ESP32 Development Board","https://www.amazon.com/gp/product/B01MS1Q2QG/",1,"Main microcontroller with WiFi + Bluetooth"
+4,"DS18B20 Waterproof Temperature Sensor","https://www.amazon.com/gp/product/B09N6NXP4H/",1,"Digital temperature sensor"
+5,"GEILIENERGY 7.2V 3000mAh NiMH Battery Pack","https://www.amazon.com/dp/B0C5WXWWH3/",1,"Main power source for motors"
+6,"Tamiya Connector Adapter Cable","https://www.amazon.com/dp/B07MSCD9KQ/",1,"Connects battery to motor driver"

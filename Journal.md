@@ -5,6 +5,8 @@ description: "This is a small car"
 created_at: "2024-05-10"
 ---
 
+**Time Spent in Total: 18.30 hr**
+
 # May 10th: Base Structure and Hardware Selection
 
 I created a fundamental base structure and experimented with dimensions to find optimal tolerances. I also found some hardware.

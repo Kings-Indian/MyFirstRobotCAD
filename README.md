@@ -8,8 +8,7 @@ This is a mini car, that uses a 9.6V NI-MH Rechargeable Battery Pack, ESP32, 2 T
 # Why use this (over XRP Robots?)
 I made this project as I found XRP's to be very expensive, at $115. While this is justified for some FIRST Robotics teams who use it as coding practice, as a drivetrain focused on beginners, I believe this is unnessesary. The XRP featuring a no-tools, no-soldering assembly process and a suite of components including a Raspberry Pi Pico W microcontroller, an inertial measurement unit (IMU), motor drivers, and various sensors. The inclusion of the Raspberry Pi Pico W enables wireless connectivity and compatibility with a range of programming environments, from block-based coding for novices to Python and Arduino for more advanced users. However, for the typical beginner or hobbyist interested mainly in hands-on mechanical learning and straightforward driving tasks, such advanced features are often unnecessary. Most entry-level users are not leveraging WPILib or practicing the development of precise autonomous routines, which are more relevant to competitive robotics teams. This project is a much cheaper, easier to reproduce version of the XRP that can be expanded still. 
 
-PICTURES OF YOUR PROJECT
-A screenshot of a full 3D model with your project
+
 
 ![image](https://github.com/user-attachments/assets/41af2c4d-699c-45e3-96d1-9f4c5c686e0b)
 

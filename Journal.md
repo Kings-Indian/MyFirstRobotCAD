@@ -123,8 +123,14 @@ I modeled my battery and began implementing its mount. I went through multiple d
 I finished the battery mount and recreated the tank drive modules. This also required me to create an extra set of "negative" screw hole sets. I recreated the Tank drive geometry in order to allow for the center of rotations to be further apart while still allowing for multiple modules. This allows a higher radius, providing more space under the robot. As a result, less space needs to be extruded from the drivetrain, making for a more stable base while still maintaining enough thickness for stability.
 
 ![image](https://github.com/user-attachments/assets/c76d4ede-9811-43aa-b211-26a8e440ab81)
+---
 
+# June 4th: Updated Everything to Github
+
+I added everything to Github, previously it was all elseware. 
+
+**Total time spent: 4h (On-Call)**
 
 **Total time spent: 1h 30m**
 
-**Time Spent in Total: 14.30 hr**
+**Time Spent in Total: 18.30 hr**

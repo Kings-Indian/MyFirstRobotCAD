@@ -127,7 +127,7 @@ I finished the battery mount and recreated the tank drive modules. This also req
 
 # June 4th: Updated Everything to Github
 
-I added everything to Github, previously it was all elseware. 
+Worked on Toolhead (not the repo above,) tried to debug and failed, added the CAD.md, updated the readme.md with the wiring. This is now ship ready (I don't have to do anything else on this.)
 
 **Total time spent: 4h (On-Call)**
 

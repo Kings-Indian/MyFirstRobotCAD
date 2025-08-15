@@ -133,6 +133,9 @@ Worked on Toolhead (not the repo above,) tried to debug and failed, added the CA
 
 **Total time spent: 4h (On-Call)**
 
-**Total time spent: 1h 30m**
+# June 14th: Built the project
+I built the projecct. It was pretty basic, but I midway realised that L298N H bridges have 5v and I dont need the stepdown so I rewired
+<img width="1094" height="1010" alt="image" src="https://github.com/user-attachments/assets/2d05c5a5-7f85-4cb1-b010-d0e12eae9475" />
+
 
 **Time Spent in Total: 18.30 hr**

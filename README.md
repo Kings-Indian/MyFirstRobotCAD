@@ -35,3 +35,6 @@ I made this project as I found XRP's to be very expensive, at $115. While this i
 | **Subtotal** |  |  |  |  |  | **$114.16** |
 | **NJ Sales Tax (6.625%)** |  |  |  |  |  | **$7.56** |
 | **Total Cost** |  |  |  |  |  | **$121.72** |
+
+Reddit: [Link](https://www.reddit.com/r/Hack_Club/comments/1m0td3w/my_first_robot_beginner_tank_drive_based_robot/)
+Youtube: [Link](https://youtube.com/shorts/KqxjNIM5i9M?feature=share)

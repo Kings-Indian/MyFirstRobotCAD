@@ -17,6 +17,7 @@ I made this project as I found XRP's to be very expensive, at $115. While this i
 ![image](https://github.com/user-attachments/assets/bf1c2364-c507-4d98-8b47-73e71e29eb29)
 
 ![image](https://github.com/user-attachments/assets/da571593-6288-41f7-84ef-ae7510ff9017)
+<img width="1094" height="1010" alt="image" src="https://github.com/user-attachments/assets/0bb7cea3-f543-44e7-be35-a0f089140641" />
 
 
 | Item No. | Product Name | Amazon Link | Quantity | Cost (USD) | Notes | Running Total (USD) |

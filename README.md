@@ -14,28 +14,29 @@ I made this project as I found XRP's to be very expensive, at $115. While this i
 
 ![image](https://github.com/user-attachments/assets/aa305342-2f10-477d-9306-df2d5c478280)
 
-![image](https://github.com/user-attachments/assets/bf1c2364-c507-4d98-8b47-73e71e29eb29)
+<img width="1820" height="1115" alt="image" src="https://github.com/user-attachments/assets/6a5474c6-67b6-4ba7-9156-a9a9ea0c7250" />
+
 
 ![image](https://github.com/user-attachments/assets/da571593-6288-41f7-84ef-ae7510ff9017)
 <img width="1094" height="1010" alt="image" src="https://github.com/user-attachments/assets/0bb7cea3-f543-44e7-be35-a0f089140641" />
 
 
-| Item No. | Product Name | Amazon Link | Quantity | Cost (USD) | Notes | Running Total (USD) |
-|----------|-------------|-------------|----------|------------|-------|---------------------|
-| 1 | ESP-WROOM-32 | [Link](https://www.amazon.com/gp/product/B08D5ZD528/?th=1) | 1 | $15.99 | Main microcontroller with WiFi + Bluetooth | $15.99 |
-| 2 | HiLetgo L298N Motor Driver Module | [Link](https://www.amazon.com/gp/product/B07BK1QL5T/) | 1 | $11.49 | Motor driver for controlling DC motors | $27.48 |
-| 3 | 12V to 5V 3A 15W Step-Down Power Supply | [Link](https://www.amazon.com/gp/product/B01MS1Q2QG/) | 1 | $7.99 | Provides stable power conversion | $35.47 |
-| 4 | TT Motor Dual DC 3-6V | [Link](https://www.amazon.com/gp/product/B09N6NXP4H/) | 1 | $9.99 | Compact motor for drivetrain | $45.46 |
-| 5 | GEILIENERGY 7.2V 3000mAh NiMH Battery Pack | [Link](https://www.amazon.com/dp/B0C5WXWWH3/) | 1 | $14.79 | Main power source for motors | $60.25 |
-| 6 | Tamiya Connector Adapter Cable | [Link](https://www.amazon.com/dp/B07MSCD9KQ/) | 1 | $7.98 | Connects battery to wires | $68.23 |
-| 7 | Overture Black PLA | [Link](https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PGY2JP1/) | 1 | $14.99 | Filament for 3D Printer | $83.22 |
-| 8 | ELEGOO 120pcs Multicolored Dupont Wire | [Link](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/) | 1 | $6.98 | Wires for robot | $90.20 |
-| 9 | BNTECHGO Flexible Conductor Wire | [Link](https://www.amazon.com/BNTECHGO-Flexible-Conductor-Resistant-Extension/dp/B077XBWX8V/) | 1 | $9.98 | Wires | $100.18 |
-| 10 | Wire Connectors | [Link](https://www.amazon.com/dp/B096DC1J3X?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1) | 1 | $8.99 | Connect the wires without having to solder | $109.17 |
-| 11 | Multifunctional Data Cable Storage Box Adaptor | [Link](https://www.amazon.com/gp/product/B09NPKN1L1/ref=ox_sc_saved_title_1?smid=AHWNOQOH5PUDM&th=1) | 1 | $4.99 | Universal Data Transfer Cable (Black) | $114.16 |
-| **Subtotal** |  |  |  |  |  | **$114.16** |
-| **NJ Sales Tax (6.625%)** |  |  |  |  |  | **$7.56** |
-| **Total Cost** |  |  |  |  |  | **$121.72** |
+| Product       | Cost (USD) | Link |
+|---------------|------------|------|
+| ESP32         | $1.93      | [AliExpress](https://www.aliexpress.us/item/3256806427933251.html) |
+| L298N         | $1.99      | [AliExpress](https://www.aliexpress.us/item/3256807823009783.html) |
+| TTMotor x4    | $3.68      | [AliExpress](https://www.aliexpress.us/item/3256806642211675.html) |
+| Bulky Battery | $11.91     | [AliExpress](https://www.aliexpress.us/item/3256805817322174.html) |
+| **Total**     | **$19.51** | — |
+
+
+| Product       | Cost (USD) | Link |
+|---------------|------------|------|
+| ESP32         | $1.93      | [AliExpress](https://www.aliexpress.us/item/3256806427933251.html) |
+| L298N         | $1.99      | [AliExpress](https://www.aliexpress.us/item/3256807823009783.html) |
+| TTMotor x4    | $3.68      | [AliExpress](https://www.aliexpress.us/item/3256806642211675.html) |
+| Battery Case  | $1.08      | [AliExpress](https://www.aliexpress.us/item/3256805817322174.html) |
+| **Total**     | **$8.68**  | — |
 
 Reddit: [Link](https://www.reddit.com/r/Hack_Club/comments/1m0td3w/my_first_robot_beginner_tank_drive_based_robot/)
 Youtube: [Link](https://youtube.com/shorts/KqxjNIM5i9M?feature=share)
